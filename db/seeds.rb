@@ -62,3 +62,5 @@ puts
 puts "Removes a user's reviews for product3"
 puts user3.remove_reviews(product3)
 puts 
+puts "Product average rating"
+puts product1.average_rating 
